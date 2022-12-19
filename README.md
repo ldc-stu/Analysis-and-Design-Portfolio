@@ -6,7 +6,7 @@ Personally, learning theory has always been a hassle for me and along with mathe
 
 -How did you approach the problem? Consider why data structures are important to understand.
 
-As someone who is more inclined with visual learning it helped in picturing the memory in data structures as "lists" and bearing in mind the layout it takes when things like insertion, searching, or removing data is implemented since a pattern can always be found and examined. Data structures stores these "lists" as organized sets that is used to uncomplicate processes. 
+As someone who is more inclined with visual learning it helped in picturing the memory in data structures as "lists" and bearing in mind the layout it takes when things like insertion, searching, or removing data is implemented since a pattern in the code can always be found and examined. Data structures stores these "lists" as organized sets that is used to uncomplicate processes. 
 
 -How did you overcome any roadblocks you encountered while going through the activities or project?
 
